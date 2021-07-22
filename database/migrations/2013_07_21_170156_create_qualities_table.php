@@ -15,7 +15,7 @@ class CreateQualitiesTable extends Migration
     {
         Schema::create('qualities', function (Blueprint $table) {
             $table->id();
-            $table->string('format name',175);
+            $table->string('formatname',75);
             $table->time('date');
             $table->string('campus',75);
             $table->timestamps();

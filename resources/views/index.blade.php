@@ -118,8 +118,8 @@
             <div class="row">
                <div class="col-md-7 offset-md-3">
                   <div class="title">
-                     <h2>Why <strong class="black">choose us</strong></h2>
-                     <span>Fastest repair service with best price!</span>
+                     <h2>Por<strong class="black">que elegirnos</strong></h2>
+                     <span>¡El servicio más rápido al mejor precio!</span>
                   </div>
                </div>
             </div>
@@ -132,34 +132,31 @@
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
                      <i><img src="icon/1.png"/></i>
-                     <h3>Data recovery</h3>
-                     <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
+                     <h3>Procedimiento de alta calidad</h3>
+                     <p>datos exactos parla correccion de su vision</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
                      <i><img src="icon/2.png"/></i>
-                     <h3>Computer repair</h3>
-                     <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
+                     <h3>Formulas exactas</h3>
+                     <p>para mayor seguridad y tranquildad</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
                      <i><img src="icon/3.png"/></i>
-                     <h3>Mobile service</h3>
-                     <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
+                     <h3>lentes de la mas alta calidad</h3>
+                     <p>de todas las marcas de todos lo estilos</p>
                   </div>
                </dir>
                <dir class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="for_box">
                      <i><img src="icon/4.png"/></i>
-                     <h3>Network solutions</h3>
-                     <p>Perspiciatis eos quos totam cum minima autPerspiciatis eos quos</p>
+                     <h3>Accesorios</h3>
+                     <p>lo mejor de lo mejor por que tu te lo mereces</p>
                   </div>
                </dir>
-               <div class="col-md-12">
-                  <a class="read-more">Read More</a>
-               </div>
             </div>
          </div>
        </div>
@@ -172,8 +169,8 @@
             <div class="row">
                <div class="col-md-8 offset-md-2">
                   <div class="title">
-                     <h2>Service <strong class="black">Process</strong></h2>
-                     <span>Easy and effective way to get your device repair</span>
+                     <h2>Cumplimiento<strong class="black">de nuestros servicios</strong></h2>
+                     <span>Calidad al 100%</span>
                   </div>
                </div>
             </div>
@@ -231,7 +228,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="title">
-                     <h2>our <strong class="black">products</strong></h2>
+                     <h2>Nuestros <strong class="black">productos</strong></h2>
                      <span>We package the products with best services to make you a happy customer.</span>
                   </div>
                </div>
@@ -306,7 +303,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="title">
-                        <h3>What Clients Say?</h3>
+                        <h3>Nuestro equipo</h3>
                      </div>
                   </div>
                </div>
@@ -321,7 +318,7 @@
             <div class="container">
               <div class="carousel-caption text-bg">
                <div class="img_bg">
-                  <i><img src="images/lllll.png"/><span>Jone Due<br><strong class="date">12/02/2019</strong></span></i>
+                  <i><img src="images/lllll.png"/><span>Dr. wilson<br><strong class="date">12/02/2019</strong></span></i>
                   
                </div>
                 
@@ -363,25 +360,6 @@
 
             </div>
          </div>
-
-         <div class="container">
-            <div class="yellow_bg">
-            <div class="row">
-               <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                  <div class="yellow-box">
-                     <h3>REQUEST A FREE QUOTE<i><img src="icon/calll.png"/></i></h3>
-                     
-                     <p>Get answers and advice from people you want it from.</p>
-                  </div>
-               </div>
-                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
-                  <div class="yellow-box">
-                     <a href="#">Get  Quote</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-         </div>
       </div>
 
       <!-- end our product -->
@@ -403,7 +381,7 @@
             <div class="row">
                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="contact">
-                     <h3>conatct us</h3>
+                     <h3>contactenos</h3>
                      <span>123 Second Street Fifth Avenue,<br>
                        Manhattan, New York<br>
                         +987 654 3210</span>
@@ -411,7 +389,7 @@
                </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="contact">
-                     <h3>ADDITIONAL LINKS</h3>
+                     <h3>Adicional</h3>
                      <ul class="lik">
                          <li> <a href="#">About us</a></li>
                          <li> <a href="#">Terms and conditions</a></li>
@@ -423,9 +401,9 @@
                </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="contact">
-                     <h3>service</h3>
+                     <h3>servicios</h3>
                       <ul class="lik">
-                    <li> <a href="#"> Data recovery</a></li>
+                    <li> <a href="#">consultas</a></li>
                          <li> <a href="#">Computer repair</a></li>
                          <li> <a href="#">Mobile service</a></li>
                          <li> <a href="#">Network solutions</a></li>
@@ -434,7 +412,7 @@
                </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
                   <div class="contact">
-                     <h3>About lighten</h3>
+                     <h3>nosotros</h3>
                      <span>Tincidunt elit magnis nulla facilisis. Dolor Sapien nunc amet ultrices, </span>
                   </div>
                </div>
