@@ -4,7 +4,6 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\IndexControllers;
 use App\Http\Controllers\ProductController;
-use App\Http\Controllers\QualityController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -32,10 +31,3 @@ Route::get('about',[AboutController::class,'index']);
 Route::get('contact',[ContactController::class,'index']);
 Route::get('product',[ProductController::class,'index']);
 
-/*quiality*/
-Route::get('qualities',[QualityController::class,'index']);
-Route::get('qualities/create',[QualityController::class,'create']);
-Route::post('qualities',[QualityController::class,'store']);
-Route::get('qualities/edit/{id}',[QualityController::class,'edit']);
-Route::put('qualities/{id}',[QualityController::class,'update']);
-Route::delete('qualities/{id}',[QualityController::class,'destroy']);

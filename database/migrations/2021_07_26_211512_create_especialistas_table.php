@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateQualitiesTable extends Migration
+class CreateEspecialistasTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,9 @@ class CreateQualitiesTable extends Migration
      */
     public function up()
     {
-        Schema::create('qualities', function (Blueprint $table) {
+        Schema::create('especialistas', function (Blueprint $table) {
             $table->id();
-            $table->string('formatname',75);
-            $table->time('date');
-            $table->string('campus',75);
+            $table->string('especialidad',75);
             $table->timestamps();
         });
     }
@@ -29,6 +27,6 @@ class CreateQualitiesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('qualities');
+        Schema::dropIfExists('especialistas');
     }
 }
