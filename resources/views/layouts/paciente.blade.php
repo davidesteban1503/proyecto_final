@@ -8,10 +8,10 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>USUARIOS</title>
+    <title>Paciente</title>
   </head>
   <body>
-    <h1 class="bg-warning text-white text-center">Usuarios existentes</h1>
+    <h1 class="bg-warning text-white text-center">Bienvenido</h1>
     <div class="contenedor">
         @yield('contenido')
     </div>

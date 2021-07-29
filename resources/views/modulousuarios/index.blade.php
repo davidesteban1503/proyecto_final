@@ -1,6 +1,6 @@
-@extends('layouts.plantillausuarios');
+@extends('layouts.plantillausuarios')
 
-@section('contenido');
+@section('contenido')
   <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
       <form class="d-flex">
