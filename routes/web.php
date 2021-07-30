@@ -1,11 +1,14 @@
 <?php
 
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\CitasController;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\EspecialistaController;
 use App\Http\Controllers\IndexControllers;
 use App\Http\Controllers\PacienteController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\VcitasController;
 use App\Models\User;
 use Illuminate\Support\Facades\Route;
 
@@ -44,4 +47,16 @@ Route::delete('usuarios/{id}',[UserController::class,'destroy']);
     
 /*Paciente*/
 Route::get('pacientes',[PacienteController::class,'index']);
+Route::get('pacientes/create',[PacienteController::class,'create']);
+Route::post('pacientes',[PacienteController::class,'store']);
 
+/*especialista*/
+Route::get('especialista',[EspecialistaController::class,'index']);
+
+/*citas*/
+Route::get('citas',[CitasController::class,'index']);
+Route::get('citas/create',[CitasController::class,'create']);
+Route::post('citas',[CitasController::class,'store']); 
+Route::get('citas/edit/{id}',[CitasController::class,'edit']);
+Route::put('citas/{id}',[CitasController::class,'update']);
+Route::delete('citas/{id}',[CitasController::class,'destroy']);

@@ -19,7 +19,7 @@
             <th scope="col">CORREO</th>
             <th scope="col">TELEFONO</th>
             <th scope="col">ROL</th>
-            <th scope="col">CONTRASEÑA</th>
+           
             <th scope="col">ACCIONES</th>
         </tr>
     </thead>
@@ -32,7 +32,7 @@
             <td>{{$usuario->email}}</td>
             <td>{{$usuario->phone}}</td>
             <td>{{$usuario->rol}}</td>
-            <td>{{$usuario->password}}</td>
+            
 
         <td>
             <form action="{{url('usuarios',$usuario->id)}}" method="POST">
