@@ -26,7 +26,7 @@
       <div class="btn btn-outline-dark card">
         <div class="card-body">
           <h5 class="card-title text-center">Citas</h5>
-          <a href="#" class="btn btn-outline-warning mx-4">Inicia Aqui</a>
+          <a href="citas" class="btn btn-outline-warning mx-4">Inicia Aqui</a>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
     <div class="col-sm-4 mx-auto mt-4">
       <div class="btn btn-outline-dark card">
         <div class="card-body">
-          <h5 class="card-title text-center">Inventario</h5>
+          <h5 class="card-title text-center">Proveedores</h5>
           <a href="#" class="btn btn-outline-warning mx-4">Inicia Aqui</a>
         </div>
       </div>
